@@ -7,6 +7,3 @@ Skin cancer, the most typical form of cancer, is a critical public health proble
 
 ### Web Application
 https://saketchaturvedi.github.io
-
-### Repository Code is also available at Zonodo
-http://doi.org/10.5281/zenodo.2636091
