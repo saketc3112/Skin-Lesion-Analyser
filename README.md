@@ -27,13 +27,6 @@ This method provides a **robust AI-powered tool** to assist dermatologists in **
 
 ---
 
-## **Web Application**  
-
-🖥️ **Access the AI-powered Skin Lesion Analyzer here:**  
-🔗 [Try it here](https://saketchaturvedi.github.io) 
-
----
-
 ## **Citation**  
 
 If you find this work useful, please consider citing our paper:  
